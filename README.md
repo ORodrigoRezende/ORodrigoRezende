@@ -3,8 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/etmjr03">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ORodrigoRezende&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORodrigoRezende&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORodrigoRezende&layout=compact&langs_count=7&theme=gruvbox%22"/>
 </div
 <!--
 **ORodrigoRezende/ORodrigoRezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
