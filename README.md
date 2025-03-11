@@ -10,8 +10,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I am currently studying computer science at the Federal University of São João del Rei.
-- 🌱 I’m currently learning C and Python.
+- 🔭 I am currently studying Computer Science at the Federal University of São João del Rei.
+- 🌱 I’m currently learning C,Python,Java,HTML,CSS,JavaScript.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
