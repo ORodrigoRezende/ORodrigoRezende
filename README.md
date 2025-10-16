@@ -1,14 +1,16 @@
 ### Olá, seja bem-vindo ao meu perfil!
-Prazer, meu nome é **Rodrigo Rezende**  
+Prazer, meu nome é **Rodrigo Rezende** sou estudante de Ciencia da Computação - UFSJ 
 
 <div align="center">
+  <!-- Estatísticas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ORodrigoRezende&show_icons=true&theme=dark"/>
+  
+  <!-- Linguagens mais usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORodrigoRezende&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ORodrigoRezende&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/rodrigo-rezende-49b38a208/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORodrigoRezende&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-
 </div>
