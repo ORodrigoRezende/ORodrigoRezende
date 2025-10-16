@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/etmjr03">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ORodrigoRezende&layout=compact&langs_count=7&theme=gruvbox%22"/>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ORodrigoRezende&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+    ### Linguagens mais usadas 🚀
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ORodrigoRezende&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div
 <!--
 **ORodrigoRezende/ORodrigoRezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
